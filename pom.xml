@@ -29,6 +29,8 @@
 						<exclude>**/OptionTest*</exclude>
 						<exclude>**/StatusCheckerTest*</exclude>
 					</excludes>
+					<attachClasses>true</attachClasses>
+                			<classesClassifier>classes</classesClassifier>
 				</configuration>
 			</plugin>
 
