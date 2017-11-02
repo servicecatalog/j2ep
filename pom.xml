@@ -39,7 +39,6 @@
 				<classesClassifier>classes</classesClassifier>
 			    </configuration>
 			</plugin>
-		    </plugins>
 		</plugins>
 	</build>
 	<dependencies>
